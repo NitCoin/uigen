@@ -1,0 +1,9 @@
+node_modules
+.env
+.env.local
+.env.*
+!.env.example
+.firebase
+dist
+build
+.claude/ralph-loop*
